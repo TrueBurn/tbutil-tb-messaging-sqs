@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TBUtil.MessagingSqs", "TBUtil.MessagingSqs\TBUtil.MessagingSqs.csproj", "{CDB4C21D-FBB5-4658-8242-79736610BBAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingSqs.Tests", "MessagingSqs.Tests\MessagingSqs.Tests.csproj", "{8D94A447-476A-43C7-9520-1441FAE197CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBUtil.MessagingSqs.Tests", "MessagingSqs.Tests\TBUtil.MessagingSqs.Tests.csproj", "{8D94A447-476A-43C7-9520-1441FAE197CD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8EEF92F-C8DC-496F-9A85-3DD7E69408C7}"
 	ProjectSection(SolutionItems) = preProject
