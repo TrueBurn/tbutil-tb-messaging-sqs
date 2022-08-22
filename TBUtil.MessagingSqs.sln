@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TBUtil.MessagingSqs", "TBUtil.MessagingSqs\TBUtil.MessagingSqs.csproj", "{CDB4C21D-FBB5-4658-8242-79736610BBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingSqs.Tests", "MessagingSqs.Tests\MessagingSqs.Tests.csproj", "{8D94A447-476A-43C7-9520-1441FAE197CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8EEF92F-C8DC-496F-9A85-3DD7E69408C7}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB4C21D-FBB5-4658-8242-79736610BBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB4C21D-FBB5-4658-8242-79736610BBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB4C21D-FBB5-4658-8242-79736610BBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB4C21D-FBB5-4658-8242-79736610BBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D94A447-476A-43C7-9520-1441FAE197CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D94A447-476A-43C7-9520-1441FAE197CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D94A447-476A-43C7-9520-1441FAE197CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D94A447-476A-43C7-9520-1441FAE197CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFF8545A-D16E-4408-B71C-A37BC73BB5CF}
+	EndGlobalSection
+EndGlobal
